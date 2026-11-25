@@ -1,7 +1,3 @@
-# CV-online-
-My CV summit
-Вот исходный код именно версии Kateryna — Personal Portfolio 2.0, без изменений версии 3.0. HTML, CSS и JavaScript находятся в одном файле.
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
